@@ -46,8 +46,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: KEERTHIKA A
-### Register Number: 212224220048
+### Name: SANDHIYA M
+### Register Number: 212224220086
 ```python
 #creating model class
 class NeuralNet(nn.Module):
@@ -84,22 +84,23 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
           print(f'Epoch [{epoch}/{epochs}], Loss: {loss.item():.6f}')
 ```
 ## Dataset Information
-<img width="274" height="523" alt="image" src="https://github.com/user-attachments/assets/2dc3fa2d-c453-4512-8dc9-6dcbbfce96a7" />
+<img width="235" height="430" alt="Screenshot 2026-02-24 140048" src="https://github.com/user-attachments/assets/15ed44d3-771b-4dfb-817f-be6be889b612" />
+
 
 ## OUTPUT
 
-<img width="784" height="492" alt="image" src="https://github.com/user-attachments/assets/e3fbdc58-644e-4ee4-a05f-c6e30a8d2eb0" />
+<img width="919" height="495" alt="Screenshot 2026-02-24 141110" src="https://github.com/user-attachments/assets/4497c6a0-4e95-461f-8c0d-09657f80de03" />
 
 
 ### Training Loss Vs Iteration Plot
 
-<img width="720" height="572" alt="image" src="https://github.com/user-attachments/assets/87168463-d0c2-4470-ba1d-f35e92192db8" />
-
+<img width="763" height="630" alt="Screenshot 2026-02-24 141542" src="https://github.com/user-attachments/assets/253af5dd-d562-44d1-9cae-375016fd6a56" />
 
 
 ### New Sample Data Prediction
 
-<img width="779" height="148" alt="image" src="https://github.com/user-attachments/assets/40a7bbd0-64a8-4056-b7be-afa84375c938" />
+<img width="1007" height="130" alt="Screenshot 2026-02-24 141705" src="https://github.com/user-attachments/assets/acb12a96-8c03-43eb-a9ea-d80a4ddb2202" />
+
 
 ## RESULT
 
